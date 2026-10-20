@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 全站深色背景（星空背景底层色） */
+body {
+  background-color: #080f1a;
+}
